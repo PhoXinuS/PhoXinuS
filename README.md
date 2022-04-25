@@ -17,13 +17,13 @@ My name is Piotr and I'm 18, good to know you
 - Learning basics of .NET  
 - Using C++ for more complicated solutions  
   
- <br/>
+
 🫂 Always open to collaborate or join any interesting project  
-<br/>
+
   
-📬 If you to contact me:  
+📬 If you wish to contact me:  
 - Discord (PhoXinuS#7773)  
 - E-mail (panhenontre@gmail.com)  
 
-... and one more thing
+... and one more thing  
 coffee > tea
