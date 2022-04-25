@@ -19,7 +19,7 @@ My name is Piotr and I'm 18, good to know you
   
  <br/>
 🫂 Always open to collaborate or join any interesting project  
-
+<br/>
   
 📬 If you to contact me:  
 - Discord (PhoXinuS#7773)  
