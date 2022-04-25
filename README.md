@@ -1,16 +1,28 @@
-### Hi there 👋
+### Oh, Hello there👋
+I'm just a curious enthusiast looking forward to learn something new  
+My name is Piotr and I'm 18, good to know you  
+  
+💬 Prefered Languages  
+- C# (especially for Unity Engine usage)  
+- C++  
 
-<!--
-**PhoXinuS/PhoXinuS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📖 My projects so far:  
+- Mobile game released on Google Playstore [link](https://play.google.com/store/apps/details?id=com.PXStudios.BounceUp)  
+- Platformer building game made on a game jam  
+- Advanced movement script for Unity  
+- Custom path creator combined with A* algorithm  
+  
+🛠️ Currently working on:  
+- Optimizing and extending the Game of Life concept as C++ app  
+- Learning basics of .NET  
+- Using C++ for more complicated solutions  
+  
+🫂 Always open to collaborate or join any interesting project
 
-Here are some ideas to get you started:
+  
+📬 If you to contact me:  
+- Discord (PhoXinuS#7773)  
+- E-mail (panhenontre@gmail.com)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+... and one more thing
+coffee > tea
