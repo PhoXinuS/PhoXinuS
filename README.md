@@ -6,7 +6,7 @@ My name is Piotr and I'm 18, good to know you
 - C# (especially for Unity Engine usage)  
 - C++  
 
-📖 My projects so far:  
+📖 My bigger projects so far:  
 - Mobile game released on Google Playstore [link](https://play.google.com/store/apps/details?id=com.PXStudios.BounceUp)  
 - Platformer building game made on a game jam  
 - Advanced movement script for Unity  
