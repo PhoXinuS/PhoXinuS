@@ -2,7 +2,7 @@
 I'm just a curious enthusiast looking forward to learn something new  
 My name is Piotr and I'm 18, good to know you  
   
-💬 Prefered Languages  
+💬 Prefered Languages:  
 - C# (especially for Unity Engine usage)  
 - C++  
 
@@ -17,6 +17,7 @@ My name is Piotr and I'm 18, good to know you
 - Learning basics of .NET  
 - Using C++ for more complicated solutions  
   
+    
 🫂 Always open to collaborate or join any interesting project
 
   
