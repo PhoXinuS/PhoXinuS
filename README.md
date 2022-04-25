@@ -18,7 +18,7 @@ My name is Piotr and I'm 18, good to know you
 - Using C++ for more complicated solutions  
   
  <br/>
-🫂 Always open to collaborate or join any interesting project
+🫂 Always open to collaborate or join any interesting project  
 
   
 📬 If you to contact me:  
