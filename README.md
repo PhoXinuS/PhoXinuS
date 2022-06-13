@@ -7,7 +7,7 @@ My name is Piotrek and I'm 18, good to know you :D
 - C++  
 
 📖 My bigger projects so far:  
-- Mobile game (practice project) released on Google Playstore [link](https://play.google.com/store/apps/details?id=com.PXStudios.BounceUp)
+- Mobile game (practice project) released on Google Playstore
 - Platformer building game made on a game jam  
 - Advanced movement script for Unity  
 - Custom path creator combined with A* algorithm  
