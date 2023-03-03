@@ -1,5 +1,5 @@
 ### Oh, Hello there👋
-I'm just a curious enthusiast looking forward to learn something new  
+I'm just a curious university student looking forward to learn something new  
 My name is Piotrek and I'm 19, good to know you :D
 
 💬 Prefered Languages:  
